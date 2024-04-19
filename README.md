@@ -1,2 +1,2 @@
 # nimmsta-sdk-dotnet
-Open Source NIMMSTA SDK repository for dot.net applications
+Open Source NIMMSTA SDK repository for .NET applications
